@@ -100,7 +100,7 @@ dass_hls --help
 
 ## Publication
 
-If you use DASS in your research, please cite [our FPGA2020 paper](https://jianyicheng.github.io/papers/ChengFPGA20.pdf)
+If you use DASS in your research, please cite [our FPGA2020 paper](https://jianyicheng.github.io/assets/pdf/ChengFPGA20.pdf)
 
 ```
 @inproceedings{cheng-dass-fpga2020,
@@ -117,13 +117,13 @@ If you use DASS in your research, please cite [our FPGA2020 paper](https://jiany
 ```
 
 ### Related Publications
-1. Jianyi Cheng, John Wickerson and George A. Constantinides. [Finding and Finessing Static Islands in Dynamically Scheduled Circuits](https://jianyicheng.github.io/papers/ChengFPGA22.pdf). In *ACM Int. Symp. on Field-Programmable Gate Arrays*, 2022.
+1. Jianyi Cheng, John Wickerson and George A. Constantinides. [Finding and Finessing Static Islands in Dynamically Scheduled Circuits](https://jianyicheng.github.io/assets/pdf/ChengFPGA22.pdf). In *ACM Int. Symp. on Field-Programmable Gate Arrays*, 2022.
 
-1. Jianyi Cheng, John Wickerson and George A. Constantinides. [Probablistic Scheduling in High-level Synthesis](https://jianyicheng.github.io/papers/ChengFCCM21.pdf). In *IEEE Int. Symp. on Field-Programmable Custom Computing Machines*, 2021.
+1. Jianyi Cheng, John Wickerson and George A. Constantinides. [Probabilistic Scheduling in High-level Synthesis](https://jianyicheng.github.io/assets/pdf/ChengFCCM21.pdf). In *IEEE Int. Symp. on Field-Programmable Custom Computing Machines*, 2021.
 
-1. Jianyi Cheng, Lana Josipović, George A. Constantinides, Paolo Ienne and John Wickerson. [DASS: Combining Dynamic & Static Scheduling in High-level Synthesis](https://jianyicheng.github.io/papers/ChengTCAD21.pdf). *IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems*, 2021.
+1. Jianyi Cheng, Lana Josipović, George A. Constantinides, Paolo Ienne and John Wickerson. [DASS: Combining Dynamic & Static Scheduling in High-level Synthesis](https://jianyicheng.github.io/assets/pdf/ChengTCAD21.pdf). *IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems*, 2021.
 
-1. Jianyi Cheng, Lana Josipović, George A. Constantinides, Paolo Ienne and John Wickerson. [Combining Dynamic & Static Scheduling in High-level Synthesis](https://jianyicheng.github.io/papers/ChengFPGA20.pdf). In *ACM Int. Symp. on Field-Programmable Gate Arrays*, 2020.
+1. Jianyi Cheng, Lana Josipović, George A. Constantinides, Paolo Ienne and John Wickerson. [Combining Dynamic & Static Scheduling in High-level Synthesis](https://jianyicheng.github.io/assets/pdf/ChengFPGA20.pdf). In *ACM Int. Symp. on Field-Programmable Gate Arrays*, 2020.
 
 ## Contact
 
